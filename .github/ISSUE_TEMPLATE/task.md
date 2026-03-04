@@ -57,7 +57,7 @@ GET /health
 Response:
 
 {
-"status": "ok"
+  "status": "ok"
 }
 
 ---
